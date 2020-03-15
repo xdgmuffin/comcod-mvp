@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(0, 255, 42);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+h1 {
+    
+
+}
+
+img{
+    max-width: 100%
+}
+.item {
+    background-color: #f1f1f1;
+    border:2px Full rgb(255, 0, 0)
+}
+
+.gigs {
+
+    border: 2px dashed blue;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
